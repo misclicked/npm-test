@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "@misclicked/npm-test",
   "version": "1.0.0",
   "description": "this is a test",
   "main": "index.js",
